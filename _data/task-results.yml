@@ -1,0 +1,13 @@
+# EJEMPLO PARA LOS RESULTADOS ESPERADOS DE CADA TAREA DE CADA PRACTICA
+lab1:
+  results:
+    # LISTA DE CADA RESULTADO DE CADA TAREA SE MOSTRARÁ EN COLOR VERDE PARA QUE RESALTE
+    - "**Resultado esperado:** Identificaste el principal cuello de botella del escenario ViajeYA, reconociste por qué los JOINs y el escaneo masivo de disponibilidad afectan el rendimiento, y completaste una tabla breve relacionando síntomas, causas raíz y categorías como escala, velocidad o variedad."
+    - "**Resultado esperado:** Diseñaste un documento JSON desnormalizado para representar un hotel con sus habitaciones, amenidades y fechas disponibles, evitando la dependencia de múltiples JOINs y mostrando cómo un modelo documental puede simplificar la consulta de disponibilidad."
+    - "**Resultado esperado:** Clasificaste cuatro escenarios de negocio según el tipo de base de datos NoSQL más adecuado: clave-valor, documental, columnar o grafos, justificando cada decisión con una razón técnica clara y relacionada con el patrón de acceso o el modelo de datos."
+    - "**Resultado esperado:** Aplicaste el Teorema CAP en tres escenarios de negocio, diferenciando cuándo conviene priorizar consistencia fuerte y cuándo es aceptable trabajar con disponibilidad y consistencia eventual."
+
+lab2:
+  results:
+    - "**Resultado esperado:** MODIFICAR AQUI EL TEXTO DE LA DESCRIPCION DEL RESULTADO ESPERADO"
+    - "**Resultado esperado:** MODIFICAR AQUI EL TEXTO DE LA DESCRIPCION DEL RESULTADO ESPERADO"

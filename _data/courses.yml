@@ -1,0 +1,24 @@
+# _data/courses.yml
+cd212:
+  title: "Modelado, consulta, búsqueda y análisis de datos NoSQL con Couchbase" # COLOCAR EL NOMBRE DEL CURSO
+  intro: "DESCRIPCIÓN_DEL_CURSO_AQUI"
+  labs:
+
+    - id: lab1
+      title: "Análisis de casos de uso NoSQL vs Relacional"
+      url: "/lab1/lab1/"
+      duration: "25 min"
+      desc: "Analiza cuándo usar NoSQL frente a bases relacionales mediante escenarios, JSON y decisiones CAP."
+
+    - id: lab2 
+      title: "NOMBRE_DE_LA_PRACTICA_2" # NOMBRE DE LA PRACTICA
+      url:  "/lab2/lab2/"
+      duration: "## min" # AJUSTAR TIEMPO DE LA PRACTICA
+      desc: "DESCRIPCION_CORTA_DE_LA_PRACTICA" # DESCRIPCION BREVE DE LA PRACTICA 100-120 CARACTERES
+
+    - id: lab3
+      title: "NOMBRE_DE_LA_PRACTICA_3" # NOMBRE DE LA PRACTICA
+      url:  "/lab3/lab3/"
+      duration: "## min"
+      desc: "DESCRIPCION_CORTA_DE_LA_PRACTICA" # DESCRIPCION BREVE DE LA PRACTICA 100-120 CARACTERES
+
